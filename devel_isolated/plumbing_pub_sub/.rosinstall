@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kane/demo01_ws/devel_isolated/plumbing_pub_sub/setup.sh

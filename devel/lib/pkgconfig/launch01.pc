@@ -1,0 +1,8 @@
+prefix=/home/kane/demo01_ws/devel
+
+Name: launch01
+Description: Description of launch01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

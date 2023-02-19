@@ -1,0 +1,2 @@
+launch01:metapackage:multi_tf:param_server:plumbing_pub_sub:plumbing_server_client:tf2_demo:tf2_dynamics:turtle_test
+-DCATKIN_DEVEL_PREFIX=/home/kane/demo01_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kane/demo01_ws/install -G Unix Makefiles
