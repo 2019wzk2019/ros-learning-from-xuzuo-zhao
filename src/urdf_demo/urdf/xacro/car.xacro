@@ -4,4 +4,9 @@
     <xacro:include filename="base.xacro" />
     <xacro:include filename="camera.xacro" />
     <xacro:include filename="lidar.xacro" />
+    <!-- 运动控制 -->
+    <xacro:include filename="move.xacro" />
+    <xacro:include filename="laser_scan.xacro" />
+    <xacro:include filename="camera_scan.xacro" />
+    <xacro:include filename="kinect.xacro" />
 </robot>
